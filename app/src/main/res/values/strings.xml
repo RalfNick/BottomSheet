@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="custom_bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.CustomBottomSheetBehavior</string>
+    <string name="custom_bottom_sheet_behavior_v2" translatable="false">com.google.android.material.bottomsheet.CustomBottomSheetBehaviorV2</string>
+</resources>
